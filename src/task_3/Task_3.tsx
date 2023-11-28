@@ -10,7 +10,7 @@ type TaskPropsT = {
 
 export const Task_3 = ({children}: TaskPropsT) => {
     // const [value, setValue] = useState('');
-    //
+    // //
     // const onChange = (event: ChangeEvent<HTMLInputElement>) => setValue(event.currentTarget.value);
 
     // const SlComp = useMemo(() => <SlowComponent/>, [])
